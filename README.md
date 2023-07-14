@@ -8,8 +8,6 @@ PostresSQL: for database
 
 Heroku: server and database hosting
 
-Tailwind: CSS Framework for the styles
-
 React-Parallax-Tilt: for tilting animation on logo
 
 Particles-BG: for background animation
